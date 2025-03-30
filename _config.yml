@@ -6,8 +6,8 @@ url: "https://YOUR_GITHUB_USERNAME.github.io"
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
-markdown: kramdown
 
+markdown: kramdown
 kramdown:
   math_engine: mathjax
 
